@@ -2,9 +2,36 @@
 layout: default
 ---
 
-<div style="display: flex; align-items: center;">
+<style>
+/* Contenedor principal: flex en desktop, vertical en móviles */
+.banner {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  flex-wrap: wrap; /* Permite que las columnas bajen en pantallas pequeñas */
+}
 
-  <div style="flex: 1; padding-right: 16px;">
+.banner .texto {
+  flex: 1;
+  min-width: 250px;
+  padding-right: 20px;
+}
+
+.banner .imagen {
+  flex: 1;
+  min-width: 150px;
+  text-align: center;
+}
+
+.banner .imagen img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%; /* foto redonda */
+}
+</style>
+
+<div class="banner">
+  <div class="texto">
     <h1>Lucas Barberis</h1>
     <ul>
       <li>Doctor en Física</li>
@@ -12,11 +39,9 @@ layout: default
       <li>Docente de la UNC en Famaf</li>
     </ul>
   </div>
-
-  <div style="flex: 1;">
-    <img src="assets/foto_mate.png" alt="Lucas" style="max-width: 100%;">
+  <div class="imagen">
+    <img src="assets/foto_mate.png" alt="Lucas Barberis">
   </div>
-
 </div>
 
 ## Hoja de ruta
