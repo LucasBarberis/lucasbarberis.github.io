@@ -5,33 +5,44 @@ title: Lucas Barberis - CV
 
 # Lucas Barberis
 
-## FORMACIÓN ACADÉMICA
 
-- Doctor en Ciencias Físicas – Universidad de Buenos Aires – 2014  
-- Licenciado en Ciencias Físicas – Universidad de Buenos Aires – 2008
 
-## ACTIVIDAD DOCENTE
+- Doctor en Física
+- Investigador  de CONICET en el IFEG
+- Docente de la UNC en Famaf.
 
-- Profesor Adjunto – Departamento de Física, FCEyN, UBA – desde 2023  
-- Profesor Asociado – Universidad Nacional de Moreno – desde 2021  
-- Profesor Adjunto – Universidad Nacional de Hurlingham – desde 2020  
-- Ayudante de 1° y JTP – Departamento de Física, FCEyN, UBA – 2005-2023
+## Hoja de ruta
+[¿Quién soy?](https://sites.google.com/u/0/d/1Bn3WkUdXYxPWDb9FhMXhLFKnNmQdezTT/p/1bNofScWGHD5TF7mP59Gyfo67h1881zAv/preview?authuser=0)
+	Mi CV y otros datos curiosos.
+[¿En qué ando?](https://sites.google.com/u/0/d/1Bn3WkUdXYxPWDb9FhMXhLFKnNmQdezTT/p/1UNe0p0upbHltAKvLp3DGz6HP8iM0NYvS/preview?authuser=0)   
+Mis proyectos actuales 
+[¿Trabajamos juntos?](¿Trabajamos juntos?)
+Propuestas de trabajo final, doctorado y colaboraciones. 
 
-## PUBLICACIONES
+##Cosas que estudio
+- Crecimiento de cáncer.
+- Células madre cancerosas.   
+- Autoorganización en cáncer y otros sistemas naturales.
+- Conducta en aves.
+- Nuevas formas de interacción y autoorganización.
+- Sociofísica (en pausa)
+- Teoría de juegos (en pasua)
 
-- [Lista de publicaciones en Google Scholar](https://scholar.google.com.ar/citations?user=7txiFEsAAAAJ&hl=es)
+##Cosas que hago (en ciencia)
+- Simulaciones con agentes.   
+- Experimentos en ensayos de tumoresferas.
+- Ajuste de datos experimentales. 
+- Transiciones  de fase: orden-desorden y percolación.
+- Ecuaciones de dinámica de poblaciones.
+- Experimentos de conducta de aves con acelerómetros.
+- Diseño de experimentos.
 
-## INVESTIGACIÓN Y DESARROLLO
-
-- Investigador Adjunto CONICET  
-- Miembro del grupo de Materia Blanda del Departamento de Física, FCEyN, UBA  
-- Proyectos relacionados con dinámica fuera del equilibrio, motilidad celular, modelos de materia activa y simulaciones computacionales
-
-## DIRECCIÓN DE TESIS
-
-- Director de tesis de licenciatura y co-director de tesis de doctorado en el Departamento de Física, FCEyN, UBA
-
-## CONTACTO
+##Herramientas que uso
+- Procesos estocásticos: ecuaciones de Lagevin y Fokker-Plank.
+- Ecuaciones de dinámica de poblaciones.
+- Ecuaciones diferenciales  po métodos computacionales.
+- Programación: Python, Fortran, Matlab, NetLogo
+- Diseño: SolidWOrks, FlashPCreator
 
 - 📧 Email: lucas.barberis@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/lucasbarberis)  
