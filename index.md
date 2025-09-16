@@ -1,23 +1,19 @@
 ---
 layout: default
-title: Lucas Barberis - CV
----
-
-# Lucas Barberis
-
 <div style="display: flex; align-items: center;">
-
+Lucas Barberis
 <div style="flex: 1; padding-right: 10px;">
-- Doctor en Física
-- Investigador  de CONICET en el IFEG
-- Docente de la UNC en Famaf.
+
 <div style="flex: 1;">
 <img src="assets/foto_mate.png" alt="" style="max-width: 100%;">
 </div>
 
 </div>
+---
 
-
+- Doctor en Física
+- Investigador  de CONICET en el IFEG
+- Docente de la UNC en Famaf.
 
 
 ## Hoja de ruta
