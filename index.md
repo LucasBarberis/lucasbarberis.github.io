@@ -5,6 +5,7 @@ title: Lucas Barberis - CV
 
 # Lucas Barberis
 
+! [Yo](assets/foto_mate.png)
 
 
 - Doctor en Física
