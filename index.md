@@ -2,33 +2,6 @@
 layout: default
 ---
 
-<style>
-/* Contenedor principal: flex en desktop, vertical en móviles */
-.banner {
-  display: flex;
-  align-items: center;
-  margin-bottom: 20px;
-  flex-wrap: wrap; /* Permite que las columnas bajen en pantallas pequeñas */
-}
-
-.banner .texto {
-  flex: 1;
-  min-width: 250px;
-  padding-right: 20px;
-}
-
-.banner .imagen {
-  flex: 1;
-  min-width: 150px;
-  text-align: center;
-}
-
-.banner .imagen img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 50%; /* foto redonda */
-}
-</style>
 
 <div class="banner">
   <div class="texto">
