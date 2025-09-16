@@ -1,2 +1,2 @@
 # lucasbarberis.github.io
-PErsonal webpage
+Personal webpage
