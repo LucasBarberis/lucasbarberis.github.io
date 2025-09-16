@@ -12,8 +12,8 @@ layout: default
     </ul>
   </div>
 
-  <div class="imagen">
-    <img src="assets/foto_mate.png" alt="Lucas Barberis">
+<div style="flex: 1;">
+    <img src="assets/foto_mate.png" style="max-width: 100%;">
   </div>
 </div>
 
