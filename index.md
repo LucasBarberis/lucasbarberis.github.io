@@ -1,12 +1,11 @@
 ---
 layout: default
-
 ---
 
 <div style="display: flex; align-items: center;">
-Lucas Barberis
-<div style="flex: 1; padding-right: 10px;">
 
+<div style="flex: 1; padding-right: 16px;">
+Lucas Barberis
 <div style="flex: 1;">
 <img src="assets/foto_mate.png" alt="" style="max-width: 100%;">
 </div>
