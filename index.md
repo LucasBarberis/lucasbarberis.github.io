@@ -5,7 +5,7 @@ title: Lucas Barberis - CV
 
 # Lucas Barberis
 
-
+![Texto alternativo](assets/foto_mate.png)
 
 - Doctor en Física
 - Investigador  de CONICET en el IFEG
@@ -19,7 +19,7 @@ Mis proyectos actuales
 [¿Trabajamos juntos?](¿Trabajamos juntos?)
 Propuestas de trabajo final, doctorado y colaboraciones. 
 
-##Cosas que estudio
+## Cosas que estudio
 - Crecimiento de cáncer.
 - Células madre cancerosas.   
 - Autoorganización en cáncer y otros sistemas naturales.
@@ -28,7 +28,7 @@ Propuestas de trabajo final, doctorado y colaboraciones.
 - Sociofísica (en pausa)
 - Teoría de juegos (en pasua)
 
-##Cosas que hago (en ciencia)
+## Cosas que hago (en ciencia)
 - Simulaciones con agentes.   
 - Experimentos en ensayos de tumoresferas.
 - Ajuste de datos experimentales. 
@@ -37,7 +37,7 @@ Propuestas de trabajo final, doctorado y colaboraciones.
 - Experimentos de conducta de aves con acelerómetros.
 - Diseño de experimentos.
 
-##Herramientas que uso
+## Herramientas que uso
 - Procesos estocásticos: ecuaciones de Lagevin y Fokker-Plank.
 - Ecuaciones de dinámica de poblaciones.
 - Ecuaciones diferenciales  po métodos computacionales.
