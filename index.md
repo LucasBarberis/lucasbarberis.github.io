@@ -2,16 +2,16 @@
 layout: default
 ---
 
+<div style="display: flex; align-items: center;">
 
-<div class="banner">
-  <div class="texto">
-    <h1>Lucas Barberis</h1>
+<div style="flex: 1; padding-right: 10px;">
     <ul>
       <li>Doctor en Física</li>
       <li>Investigador de CONICET en el IFEG</li>
       <li>Docente de la UNC en Famaf</li>
     </ul>
   </div>
+
   <div class="imagen">
     <img src="assets/foto_mate.png" alt="Lucas Barberis">
   </div>
