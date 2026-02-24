@@ -6,6 +6,6 @@
 
 .site-header img {
   border-radius: 50%;      /* foto redonda */
-  height: 60px;            /* tamaño de la foto */
+  height: 160px;            /* tamaño de la foto */
   margin-right: 15px;      /* espacio entre foto y texto */
 }
