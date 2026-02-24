@@ -3,7 +3,7 @@ layout: default
 title: Lucas Barberis - Página Personal
 ---
 
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/style_dark.css">
 
 <div class="header-container">
     <div class="header-text">
