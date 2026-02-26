@@ -3,7 +3,7 @@ layout: default
 title: ¿En qué ando? - Lucas Barberis
 ---
 
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/style_dark.css">
 
 <div style="margin-bottom: 20px;">
     <a href="index.md" style="color: #90caf9; text-decoration: none;">← Volver al inicio</a>
