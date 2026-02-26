@@ -3,7 +3,7 @@ layout: default
 title: Lucas Barberis - Página Personal
 ---
 
-<link rel="stylesheet" href="/assets/css/style_dark.css">
+<link rel="stylesheet" href="/assets/css/style.css">
 
 <div class="header-container">
     <div class="header-text">
@@ -25,17 +25,17 @@ title: Lucas Barberis - Página Personal
         <div class="roadmap-item">
             <h3>👨‍🔬 ¿Quién soy?</h3>
             <p>Mi CV y otros datos curiosos.</p>
-            <a href="https://sites.google.com/u/0/d/1Bn3WkUdXYxPWDb9FhMXhLFKnNmQdezTT/p/1bNofScWGHD5TF7mP59Gyfo67h1881zAv/preview?authuser=0">Conoce más →</a>
+            <a href="quien-soy">Conoce más →</a>
         </div>
         <div class="roadmap-item">
             <h3>🔬 ¿En qué ando?</h3>
             <p>Mis proyectos actuales</p>
-            <a href="https://sites.google.com/u/0/d/1Bn3WkUdXYxPWDb9FhMXhLFKnNmQdezTT/p/1UNe0p0upbHltAKvLp3DGz6HP8iM0NYvS/preview?authuser=0">Ver proyectos →</a>
+            <a href="en-que-ando">Ver proyectos →</a>
         </div>
         <div class="roadmap-item">
             <h3>🤝 ¿Trabajamos juntos?</h3>
             <p>Propuestas de trabajo final, doctorado y colaboraciones.</p>
-            <a href="https://sites.google.com/u/0/d/1Bn3WkUdXYxPWDb9FhMXhLFKnNmQdezTT/p/12ZbO9pTVmVveTBRx_eP092A5dI0nPWcN/preview?authuser=0">Colaboremos →</a>
+            <a href="trabajemos-juntos">Colaboremos →</a>
         </div>
     </div>
 </div>
