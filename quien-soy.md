@@ -3,7 +3,7 @@ layout: default
 title: ¿Quién soy? - Lucas Barberis
 ---
 
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/style_dark.css">
 
 <div style="margin-bottom: 20px;">
     <a href="index.md" style="color: #90caf9; text-decoration: none;">← Volver al inicio</a>
@@ -18,7 +18,7 @@ title: ¿Quién soy? - Lucas Barberis
         </div>
         
         <div style="flex: 2;">
-            <h2 style="color: #90caf9;">Formación académica</h2>
+            <h4 style="color: #90caf9;">Formación académica</h2>
             <ul style="list-style: none; padding: 0;">
                 <li style="margin: 15px 0; padding-left: 25px; position: relative;">
                     <span style="position: absolute; left: 0; color: #64b5f6;">🎓</span>
@@ -30,7 +30,7 @@ title: ¿Quién soy? - Lucas Barberis
                 </li>
             </ul>
 
-            <h2 style="color: #90caf9; margin-top: 30px;">Posición actual</h2>
+            <h4 style="color: #90caf9; margin-top: 30px;">Posición actual</h2>
             <ul style="list-style: none; padding: 0;">
                 <li style="margin: 15px 0; padding-left: 25px; position: relative;">
                     <span style="position: absolute; left: 0; color: #64b5f6;">🔬</span>
