@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ¿En qué ando? - Lucas Barberis
+#title: ¿En qué ando? - Lucas Barberis
 ---
 
 <link rel="stylesheet" href="/assets/css/style_dark.css">
@@ -10,31 +10,24 @@ title: ¿En qué ando? - Lucas Barberis
 </div>
 
 <div class="section">
-    <h1>🔬 Proyectos actuales</h1>
-     <div style="margin-top: 30px;">
-        <div class="card" style="margin-bottom: 20px;">
-            <h3 style="color: #90caf9;">🧬 Crecimiento de cáncer y células madre cancerosas</h3>
-            <p>Estudio de la dinámica de proliferación y diferenciación de células madre cancerosas en ensayos de tumoresferas. Desarrollamos modelos matemáticos y simulaciones computacionales para entender los mecanismos que regulan la heterogeneidad tumoral.</p>
-            <p><strong>Colaboradores:</strong> Dra. María Pérez (UNC), Dr. Juan Gómez (CONICET)</p>
-            <p><strong>Financiamiento:</strong> PICT-2021-01234</p>
-        </div>     
-        <div class="card" style="margin-bottom: 20px;">
-            <h3 style="color: #90caf9;">🐦 Autoorganización en sistemas biológicos</h3>
-            <p>Análisis de patrones de comportamiento colectivo en aves mediante datos de acelerometría. Buscamos entender cómo surgen estructuras organizadas a partir de interacciones locales simples.</p>
-            <p><strong>Colaboradores:</strong> Dr. Carlos Rodríguez (Universidad de la República, Uruguay)</p>
-            <p><strong>Financiamiento:</strong> Proyecto Binacional MINCyT-CAPES</p>
-        </div>        
-        <div class="card" style="margin-bottom: 20px;">
-            <h3 style="color: #90caf9;">🔄 Transiciones de fase en sistemas fuera del equilibrio</h3>
-            <p>Estudio de transiciones orden-desorden y percolación en modelos de agentes con nuevas formas de interacción. Aplicaciones a sistemas biológicos y sociales.</p>
-            <p><strong>Colaboradores:</strong> Dr. Luis Martínez (IFEG), Dra. Ana Silva (FAMAF)</p>
-        </div>
-    </div>
+    <h3>🔬 Proyectos actuales</h3>
+        <h2> Células Madre Tumorales </h2>
+            <div class="card"> &#8226; Experimentos en tumoresferas (tumores in vitro)
+            <div class="card"> &#8226; Simulaciones con agentes 
+            <div class="card"> &#8226; Ecuaciones diferenciales de dinámica de poblaciones.
+            <div class="card"> &#8226; Criticalidad y autoorganización
+    <p> Estudiamos como la existencia de unas células cancerosas, que tienen propiedades de célula madre, impulsan el crecimiento de un tumor. </p>
+    <p>Para esto realizamos: ,<p>
+        <li> Modelos de dinámica de poblaciones (ecuaciones diferenciales, sistemas dinámicos) </li>
+        <li> Simulaciones computacionales  de en modelos de agentes (sistemas de muchas partículas) </li>
+        <li> Análisis de imágenes de laboratorio (ciencia de datos) </li>
+    <a href="tumoresferas">Ver más →</a>
 </div>
+
 
 <div class="section">
     <h2>📝 Publicaciones recientes</h2>
-    
+    # 
     <div style="margin-top: 20px;">
         <div class="card" style="margin-bottom: 15px;">
             <p><strong>2024</strong> - "Stem cell dynamics in heterogeneous tumor environments". <em>En preparación</em></p>
