@@ -11,22 +11,19 @@ title: ¿En qué ando? - Lucas Barberis
 
 <div class="section">
     <h1>🔬 Proyectos actuales</h1>
-    
-    <div style="margin-top: 30px;">
+     <div style="margin-top: 30px;">
         <div class="card" style="margin-bottom: 20px;">
             <h3 style="color: #90caf9;">🧬 Crecimiento de cáncer y células madre cancerosas</h3>
             <p>Estudio de la dinámica de proliferación y diferenciación de células madre cancerosas en ensayos de tumoresferas. Desarrollamos modelos matemáticos y simulaciones computacionales para entender los mecanismos que regulan la heterogeneidad tumoral.</p>
             <p><strong>Colaboradores:</strong> Dra. María Pérez (UNC), Dr. Juan Gómez (CONICET)</p>
             <p><strong>Financiamiento:</strong> PICT-2021-01234</p>
-        </div>
-        
+        </div>     
         <div class="card" style="margin-bottom: 20px;">
             <h3 style="color: #90caf9;">🐦 Autoorganización en sistemas biológicos</h3>
             <p>Análisis de patrones de comportamiento colectivo en aves mediante datos de acelerometría. Buscamos entender cómo surgen estructuras organizadas a partir de interacciones locales simples.</p>
             <p><strong>Colaboradores:</strong> Dr. Carlos Rodríguez (Universidad de la República, Uruguay)</p>
             <p><strong>Financiamiento:</strong> Proyecto Binacional MINCyT-CAPES</p>
-        </div>
-        
+        </div>        
         <div class="card" style="margin-bottom: 20px;">
             <h3 style="color: #90caf9;">🔄 Transiciones de fase en sistemas fuera del equilibrio</h3>
             <p>Estudio de transiciones orden-desorden y percolación en modelos de agentes con nuevas formas de interacción. Aplicaciones a sistemas biológicos y sociales.</p>

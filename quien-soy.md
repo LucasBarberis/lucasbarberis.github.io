@@ -75,6 +75,8 @@ title: ¿Quién soy? - Lucas Barberis
         <strong>Email:</strong> <a href="mailto:lbarberis@unc.edu.ar" style="color: #90caf9;">lbarberis@unc.edu.ar</a>
     </p>
     <p>
-        <strong>Oficina:</strong> Instituto de Física Enrique Gaviola (IFEG), Medina Allende s/n, Ciudad Universitaria, Córdoba
+        <strong>Oficina 114 </strong> 
+        <p>IFEG-CONICET  y  Famaf-UNC
+        <p> Medina Allende s/n, Ciudad Universitaria, Córdoba
     </p>
 </div>
