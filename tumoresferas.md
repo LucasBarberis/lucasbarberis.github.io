@@ -16,7 +16,7 @@
     <div class="gallery-container">
         <div class="gallery-item">
             <video controls class="gallery-video">
-            <source src="/home/lucas/devel/personal_page/assets/images_work/ps_0.7_24_tsteps.mp4" type="video/mp4">
+            <source src="/home/lucas/devel/personal_page/assets/images_work/ps_0.7_24_tsteps_c.mp4" type="video/mp4">
             </video>
             <p>En ese video, as distintas células se muestran en colores según su estado de proliferación. Podemos obtener resultados estadísticos sobre su ditribución para luego realizar modelos matemáticos. (Proximamnete ejemplos de esto)</p>
         </div>
