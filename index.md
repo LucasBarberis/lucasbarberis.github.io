@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Lucas Barberis - Página Personal
+# layout: default
+# title: Lucas Barberis - Página Personal
 ---
 
 <link rel="stylesheet" href="/assets/css/style_dark.css">
@@ -25,7 +25,7 @@ title: Lucas Barberis - Página Personal
         <div class="roadmap-item">
             <h3> ¿Quién soy?</h3>
             <p> Mi trayectoria, publicaciones y otros datos curiosos.</p>
-            <a href="quien-soy">Conocéme más →</a>
+            <a href="quien-soy">Conoceme más →</a>
         </div>
         <div class="roadmap-item">
             <h3> ¿En qué ando?</h3>
@@ -71,7 +71,7 @@ title: Lucas Barberis - Página Personal
     <div class="skills-grid">
         <div class="card">
             <h3>Matemáticas</h3>
-            <p>Procesos estocásticos: ecuaciones de Langevin y Fokker-Planck</p>
+            <p>Procesos estocásticos</p>
             <p>Ecuaciones de dinámica de poblaciones</p>
             <p>Ecuaciones diferenciales por métodos computacionales</p>
         </div>
