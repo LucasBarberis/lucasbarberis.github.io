@@ -37,28 +37,43 @@ title: ¿Quién soy? - Lucas Barberis
 
     <div class="gallery-container">
         <div class="gallery-item">
-            <img src="/assets/images_personal/biomat18.png" alt="Organizadores de BIOMAT'18" class="gallery-image">
+            <img src="/assets/images_personal/biomat18.png" alt="Organizadores de BIOMAT'18, Córdoba" class="gallery-image">
             <div class="gallery-description">
                 <p>Organizadores de BIOMAT'18, Córdoba.</p>
             </div>
         </div>
         <div class="gallery-item">
-            <img src="/assets/images_personal/trefemac22.png" alt="TREFEMAC'22" class="gallery-image">
+            <img src="/assets/images_personal/trefemac22.png" alt="TREFEMAC'22, La Plata" class="gallery-image">
             <div class="gallery-description">
                 <p>TREFEMAC'22, La Plata.</p>
             </div>
         </div>
         <div class="gallery-item">
-            <img src="/assets/images_personal/scout.jpg" alt="Lucas Barberis scout" class="gallery-image">
-            <div class="gallery-description">
-                <p>Como scout.</p>
-            </div>
+            <img src="/assets/images_personal/scout.jpg" alt="Lucas Barberis como scout" class="gallery-image">
         </div>
         <div class="gallery-item">
-            <img src="/assets/images_personal/aiki.jpg" alt="Lucas Barberis aikido" class="gallery-image">
-            <div class="gallery-description">
-                <p>Practicando aikido.</p>
-            </div>
+            <img src="/assets/images_personal/aiki.jpg" alt="Lucas Barberis practicando aikido" class="gallery-image">
+        </div>
+        <div class="gallery-item">
+            <img src="/assets/images_personal/cusco.jpg" alt="Viaje a Cusco" class="gallery-image">
+        </div>
+        <div class="gallery-item">
+            <img src="/assets/images_personal/kayak.jpg" alt="Haciendo kayak" class="gallery-image">
+        </div>
+        <div class="gallery-item">
+            <img src="/assets/images_personal/leon.jpg" alt="Con mi esposa junto a un león en el zoológico de Luján" class="gallery-image">
+        </div>
+        <div class="gallery-item">
+            <img src="/assets/images_personal/locro.jpg" alt="Cocinando un locro al aire libre para la celebración de la Pachamama, en un fogón a leña" class="gallery-image">
+        </div>
+        <div class="gallery-item">
+            <img src="/assets/images_personal/suri.jpg" alt="Frente a la cascada de los Cóndores, con Suri, la suricata de peluche de mi hija, sobre mi hombro" class="gallery-image">
+        </div>
+        <div class="gallery-item">
+            <img src="/assets/images_personal/thor.jpg" alt="En un parque de diversiones, con una estatua de Thor" class="gallery-image">
+        </div>
+        <div class="gallery-item">
+            <img src="/assets/images_personal/chaya.jpg" alt="Con mi esposa, mi hija y otra persona, con la cara pintada, en una fiesta de la chaya en Chilecito" class="gallery-image">
         </div>
     </div>
 </div>

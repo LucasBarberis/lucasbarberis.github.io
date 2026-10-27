@@ -30,6 +30,18 @@ title: Oncostreams - Lucas Barberis
                 <p>Las células se desplazan formando corrientes.</p>
             </div>
         </div>
+        <div class="gallery-item">
+            <img src="/assets/images_work/stream_percolation1.png" alt="Configuraciones de oncostreams para distintas densidades" class="gallery-image">
+            <div class="gallery-description">
+                <p>Oncostreams: configuraciones para distintas densidades (ρ).</p>
+            </div>
+        </div>
+        <div class="gallery-item">
+            <img src="/assets/images_work/stream_percolation2.png" alt="Tamaño del cluster más grande y susceptibilidad en función de la densidad" class="gallery-image">
+            <div class="gallery-description">
+                <p>Oncostreams: tamaño del cluster más grande y susceptibilidad en función de la densidad, para tres tamaños de sistema.</p>
+            </div>
+        </div>
     </div>
 </div>
 

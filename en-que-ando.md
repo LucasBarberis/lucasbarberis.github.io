@@ -47,14 +47,3 @@ title: ¿En qué ando? - Lucas Barberis
         </div>
     </div>
 </div>
-
-<div class="section">
-    <h2>Otra línea</h2>
-    <div class="card-container">
-        <div class="card">
-            <h3>Movimiento de bacterias en hielo</h3>
-            <p>Las bacterias que viven en agua tienen una enorme capacidad de supervivencia. Estudiamos su movimiento en torno al punto de congelación del agua.</p>
-            <a href="/hielo">Ver más →</a>
-        </div>
-    </div>
-</div>

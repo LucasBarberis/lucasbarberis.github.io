@@ -27,8 +27,7 @@ index.md                 Portada: quién soy en 3 líneas, hoja de ruta, temas y
 │   ├── tumoresferas.md  Células madre tumorales y tumoresferas
 │   ├── streams.md       Oncostreams (autoorganización en gliomas)
 │   ├── spp.md           Materia activa / interacciones no recíprocas
-│   ├── conducta.md      Conducta de aves de corral
-│   └── hielo.md         Movimiento de bacterias en hielo
+│   └── conducta.md      Conducta de aves de corral
 └── trabajemos-juntos.md Cómo es trabajar conmigo, temas posibles y cómo contactarme
 ```
 
@@ -61,7 +60,6 @@ Convención para nombres en `assets/images_work/`: el prefijo indica la línea d
 | `stream_`  | Oncostreams                  |
 | `spp_`     | Materia activa               |
 | `quail_`   | Conducta de aves             |
-| `ice_`     | Bacterias en hielo           |
 
 Recomendaciones para los medios:
 
@@ -105,11 +103,13 @@ Lo que quedó a medio hacer de la primera versión (hecha con DeepSeek) y lo que
 - [x] `tumoresferas.md`: arreglar el link roto `<a href "...">` (falta el `=`), cerrar los `<div>` de la galería, sacar el `<img src="">` vacío y agregar el front matter (`---`).
 - [x] Links "← Volver al inicio": apuntan a `index.md`; deberían apuntar a `/`.
 - [ ] Unificar estilos: hoy conviven el tema `jekyll-theme-cayman`, `style.css` y `style_dark.css`. Elegir uno y sacar los estilos inline repetidos de cada página.
-- [ ] Revisar si `assets/formularioLicencia.pdf` y `assets/pdf.jpeg` se usan; si no, borrarlos.
+- [x] `assets/formularioLicencia.pdf`: borrado.
+- [ ] `assets/pdf.jpeg`: no se usa en ninguna página. Confirmar y borrarlo.
 
 ### Contenido
 
-- [ ] Completar `streams.md`, `spp.md`, `conducta.md` y `hielo.md` siguiendo la plantilla.
+- [ ] Completar `streams.md`, `spp.md` y `conducta.md` con más resultados.
+- [ ] Hielo es un proyecto en preparación: no hay página todavía. Cuando haya algo, crear `hielo.md`.
 - [x] Descomentar los links "Ver más →" de `en-que-ando.md` a medida que estén las páginas.
 - [ ] Agregar en `quien-soy.md` los links a Google Scholar, ORCID y CVar.
 - [x] Llevar al sitio el contenido del primer borrador en Google Sites.

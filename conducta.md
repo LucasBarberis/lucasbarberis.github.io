@@ -20,6 +20,18 @@ title: Conducta de aves de corral - Lucas Barberis
 </div>
 
 <div class="section">
+    <h2>Resultados</h2>
+    <div class="gallery-container">
+        <div class="gallery-item">
+            <img src="/assets/images_work/quail_IIBYT.png" alt="Acelerómetros en el IIBYT para estudiar la conducta de codornices" class="gallery-image">
+            <div class="gallery-description">
+                <p>Acelerómetros en el IIBYT: así estudiamos la conducta de codornices.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section">
     <h2>Qué se podría hacer</h2>
     <ul>
         <li><strong>Trabajo final:</strong> clasificación de conductas de codornices a partir de datos de acelerómetros.</li>

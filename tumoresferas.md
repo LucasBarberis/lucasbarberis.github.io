@@ -43,6 +43,12 @@ title: Células madre tumorales - Lucas Barberis
                 <p>Identificamos, por ejemplo, qué células son madre en una tumoresfera experimental.</p>
             </div>
         </div>
+        <div class="gallery-item">
+            <img src="/assets/images_work/spheres_ibyme.png" alt="Imágenes experimentales de tumoresferas" class="gallery-image">
+            <div class="gallery-description">
+                <p>Imágenes experimentales de tumoresferas.</p>
+            </div>
+        </div>
     </div>
 </div>
 

@@ -20,6 +20,18 @@ title: Materia activa - Lucas Barberis
 </div>
 
 <div class="section">
+    <h2>Resultados</h2>
+    <div class="gallery-container">
+        <div class="gallery-item">
+            <img src="/assets/images_work/spp_prl16.png" alt="Figura de nuestro artículo en Physical Review Letters (2016)" class="gallery-image">
+            <div class="gallery-description">
+                <p>Figura de nuestro artículo en <em>Physical Review Letters</em> (2016).</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section">
     <h2>Qué se podría hacer</h2>
     <ul>
         <li><strong>Trabajo final:</strong> patrones emergentes al romper la tercera ley de Newton, estudiados con simulaciones.</li>
