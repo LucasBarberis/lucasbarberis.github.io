@@ -102,7 +102,8 @@ Lo que quedó a medio hacer de la primera versión (hecha con DeepSeek) y lo que
 - [x] `tumoresferas.md`: cambiar las rutas `/home/lucas/devel/personal_page/assets/...` por `/assets/...`. El video referenciado (`ps_0.7_24_tsteps_c.mp4`) en realidad se llama `sphere_ps_0.7_24_tsteps_c.mp4`.
 - [x] `tumoresferas.md`: arreglar el link roto `<a href "...">` (falta el `=`), cerrar los `<div>` de la galería, sacar el `<img src="">` vacío y agregar el front matter (`---`).
 - [x] Links "← Volver al inicio": apuntan a `index.md`; deberían apuntar a `/`.
-- [ ] Unificar estilos: hoy conviven el tema `jekyll-theme-cayman`, `style.css` y `style_dark.css`. Elegir uno y sacar los estilos inline repetidos de cada página.
+- [x] Unificar estilos: se usa solo el modo oscuro (`style_dark.css`). Se borró `style.css`.
+- [ ] Sacar los estilos inline repetidos de cada página y pasarlos a `style_dark.css`.
 - [x] `assets/formularioLicencia.pdf`: borrado.
 - [ ] `assets/pdf.jpeg`: no se usa en ninguna página. Confirmar y borrarlo.
 
