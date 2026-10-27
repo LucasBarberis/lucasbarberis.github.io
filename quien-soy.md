@@ -1,92 +1,64 @@
 ---
 layout: default
-#title: ¿Quién soy? - Lucas Barberis
+title: ¿Quién soy? - Lucas Barberis
 ---
 
 <link rel="stylesheet" href="/assets/css/style_dark.css">
 
-<div style="margin-bottom: 20px;">
-    <a href="index.md" style="color: #90caf9; text-decoration: none;">← Volver al inicio</a>
+<div class="back-link">
+    <a href="/">← Volver al inicio</a>
 </div>
 
 <div class="section">
-        <div style="display: flex; gap: 30px; flex-wrap: wrap; margin-top: 30px;">
-        <div style="flex: 1; min-width: 250px;">
-            <img src="assets/images_personal/foto_mate.png" alt="Lucas Barberis" style="max-width: 100%; border-radius: 10px; border: 3px solid #64b5f6;">
+    <div class="profile">
+        <div class="profile-photo">
+            <img src="/assets/images_personal/foto_mate.png" alt="Lucas Barberis">
         </div>
-        <div style="flex: 2;">
-            <h2 style="color: #90caf9;">Lucas Barberis</h2>
-            <ul style="list-style: none; padding: 0;">
-                <li style="margin: 15px 0; padding-left: 25px; position: relative;">
-                    <span style="position: absolute; left: 0; color: #64b5f6;"></span>
-                    <span style="position: absolute; left: 0; color: #64b5f6;">👨‍🔬</span><strong> Doctor en Física</strong>
-                </li>
-            </ul>
-         <ul style="list-style: none; padding: 0;">
-                <li style="margin: 15px 0; padding-left: 25px; position: relative;">
-                    <span style="position: absolute; left: 0; color: #64b5f6;">🔬</span>
-                    <strong>Investigador CONICET</strong> en el IFEG (Instituto de Física Enrique Gaviola)
-                </li>
-                <li style="margin: 15px 0; padding-left: 25px; position: relative;">
-                    <span style="position: absolute; left: 0; color: #64b5f6;">📚</span>
-                    <strong>Docente</strong> - FAMAF, Universidad Nacional de Córdoba
-                </li>
+        <div class="profile-text">
+            <h2>Lucas Barberis</h2>
+            <ul>
+                <li><strong>Doctor en Física</strong>, egresado de la Universidad Nacional de Córdoba</li>
+                <li><strong>Investigador de CONICET</strong> en el IFEG (Instituto de Física Enrique Gaviola)</li>
+                <li><strong>Docente</strong> en FAMAF, Universidad Nacional de Córdoba</li>
             </ul>
         </div>
     </div>
 </div>
 
 <div class="section">
-    <h2>🚀 Hoja de ruta</h2>
-    <div class="roadmap">
-        <div class="roadmap-item">
-            <h3>👨‍🔬 ¿Quién soy?</h3>
-            <p>Mi CV y otros datos curiosos.</p>
-            <a href="https://sites.google.com/u/0/d/1Bn3WkUdXYxPWDb9FhMXhLFKnNmQdezTT/p/1bNofScWGHD5TF7mP59Gyfo67h1881zAv/preview?authuser=0">Ver más →</a>
+    <h2>Trayectoria</h2>
+    <p>Me formé en física en Córdoba, donde hice el doctorado. Después hice posdoctorados en La Plata y en Niza. Antes de volver a la investigación di clases en la UTN Córdoba y en la Universidad Nacional de Río Cuarto.</p>
+    <p>Mi interés general es la ciencia, y la física es mi punto de partida: me interesa cómo los sistemas formados por muchos individuos (células, aves, bacterias) se organizan solos.</p>
+</div>
+
+<div class="section">
+    <h2>Fuera del laboratorio</h2>
+    <p>Soy padre. Practiqué karate durante 16 años y estudio aikido desde 2004. Tiro con arco en el patio de casa y fui dirigente scout durante 20 años. Me gusta viajar, caminar, acampar y leer temas variados. También me interesa la música, y tengo pendiente aprender a cantar y tocar la armónica. Me gusta arreglar y construir cosas.</p>
+
+    <div class="gallery-container">
+        <div class="gallery-item">
+            <img src="/assets/images_personal/biomat18.png" alt="Organizadores de BIOMAT'18" class="gallery-image">
+            <div class="gallery-description">
+                <p>Organizadores de BIOMAT'18, Córdoba.</p>
+            </div>
         </div>
-        <div class="roadmap-item">
-            <h3>🔬 ¿En qué ando?</h3>
-            <p>Mis proyectos actuales</p>
-            <a href="https://sites.google.com/u/0/d/1Bn3WkUdXYxPWDb9FhMXhLFKnNmQdezTT/p/1UNe0p0upbHltAKvLp3DGz6HP8iM0NYvS/preview?authuser=0">Ver proyectos →</a>
+        <div class="gallery-item">
+            <img src="/assets/images_personal/trefemac22.png" alt="TREFEMAC'22" class="gallery-image">
+            <div class="gallery-description">
+                <p>TREFEMAC'22, La Plata.</p>
+            </div>
         </div>
-        <div class="roadmap-item">
-            <h3>🤝 ¿Trabajamos juntos?</h3>
-            <p>Propuestas de trabajo final, doctorado y colaboraciones.</p>
-            <a href="https://sites.google.com/u/0/d/1Bn3WkUdXYxPWDb9FhMXhLFKnNmQdezTT/p/12ZbO9pTVmVveTBRx_eP092A5dI0nPWcN/preview?authuser=0">Ver propuestas →</a>
+        <div class="gallery-item">
+            <img src="/assets/images_personal/scout.jpg" alt="Lucas Barberis scout" class="gallery-image">
+            <div class="gallery-description">
+                <p>Como scout.</p>
+            </div>
+        </div>
+        <div class="gallery-item">
+            <img src="/assets/images_personal/aiki.jpg" alt="Lucas Barberis aikido" class="gallery-image">
+            <div class="gallery-description">
+                <p>Practicando aikido.</p>
+            </div>
         </div>
     </div>
 </div>
-
-<!--
-<div class="section">
-    <h2>📋 Curriculum Vitae</h2>
- <h3 style="color: #bbdefb;">Formación postdoctoral</h3>
-    <ul style="list-style: none;">
-        <li style="margin: 10px 0;">• Investigador postdoctoral CONICET (2018-2020)</li>
-        <li style="margin: 10px 0;">• Estancia de investigación - Universidad de Barcelona (2019)</li>
-    </ul>
-        <h3 style="color: #bbdefb; margin-top: 20px;">Publicaciones destacadas</h3>
-    <ul style="list-style: none;">
-        <li style="margin: 10px 0;">• Barberis L., et al. (2023). "Cancer stem cell dynamics in tumor spheres". Physical Review E</li>
-        <li style="margin: 10px 0;">• Barberis L., et al. (2021). "Self-organization in bird flocks: a statistical physics approach". Journal of Theoretical Biology</li>
-        <li style="margin: 10px 0;">• Barberis L., et al. (2020). "Phase transitions in cancer growth models". Physica A</li>
-    </ul>    
-    <h3 style="color: #bbdefb; margin-top: 20px;">Premios y distinciones</h3>
-    <ul style="list-style: none;">
-        <li style="margin: 10px 0;">• Premio Estímulo a la Investigación Científica - Academia Nacional de Ciencias (2022)</li>
-        <li style="margin: 10px 0;">• Beca Postdoctoral CONICET (2018-2020)</li>
-        <li style="margin: 10px 0;">• Beca Doctoral CONICET (2013-2018)</li>
-    </ul>
-</div>
-<div class="section">
-    <h2>📧 Contacto</h2>
-    <p style="font-size: 1.2em;">
-        <strong>Email:</strong> <a href="mailto:lbarberis@unc.edu.ar" style="color: #90caf9;">lbarberis@unc.edu.ar</a>
-    </p>
-    <p>
-        <strong>Oficina 114 </strong> 
-        <p>IFEG-CONICET  y  Famaf-UNC
-        <p> Medina Allende s/n, Ciudad Universitaria, Córdoba
-    </p>
-</div>
--->
