@@ -31,7 +31,7 @@ title: ¿Quién soy? - Lucas Barberis
 
 <div class="section">
     <h2>Fuera del laboratorio</h2>
-    <p>Soy padre. Practiqué karate durante 16 años y estudio aikido desde 2004. Tiro con arco en el patio de casa y fui dirigente scout durante 20 años. Me gusta viajar, caminar, acampar y leer temas variados. También me interesa la música, y tengo pendiente aprender a cantar y tocar la armónica. Me gusta arreglar y construir cosas.</p>
+    <p>Soy padre. Practiqué karate durante 16 años y estudio aikido desde 2004. Tiro con arco en el patio de casa y fui educador scout durante 20 años. Me gusta viajar, caminar, acampar y leer de todo. También escucho música de todo el mundo y de cualquier género. Tengo pendiente aprender a cantar y tocar la armónica y la guitarra. Me gusta arreglar y construir cosas.</p>
 
     <div class="gallery-container">
         <div class="gallery-item">
