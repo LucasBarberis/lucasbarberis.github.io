@@ -8,9 +8,13 @@ title: ¿Trabajamos juntos? - Lucas Barberis
 </div>
 
 <div class="section">
-    <h2>Propuestas de trabajo</h2>
-    <p>Hay tres formas de empezar a trabajar conmigo: un trabajo de pregrado para iniciarte en la investigación, un trabajo final o un doctorado. Los temas combinan modelado matemático y computacional, comparación con experimentos y física teórica.</p>
-    <p>Si te interesa alguno, escribime y lo charlamos.</p>
+    <h2>Si sos estudiante</h2>
+    <p>Hay tres formas de empezar a trabajar conmigo: 
+    <li> Un trabajo de pregrado para iniciarte en la investigación, por ejemplo en ExpeV. </li> <li> Hacer el trabajo final de licenciatura.</li> 
+    <li> Buscar na beca de doctorado. </li>
+    
+    <p> Los temas combinan modelado matemático y computacional, comparación con experimentos y física teórica.</p>
+    <p>Si te interesa alguno, escribime o visitame  y lo charlamos.</p>
 </div>
 
 <div class="section">
@@ -62,7 +66,7 @@ title: ¿Trabajamos juntos? - Lucas Barberis
 
 <div class="section">
     <h2>Colaboraciones</h2>
-    <p>Estoy abierto a colaborar con investigadores de otras disciplinas (biología, matemática, computación) en temas como:</p>
+    <p>Si sos investigador,  estoy abierto a colaborar  principalmente con otras disciplinas (biología, matemática, computación) en temas como:</p>
     <div class="skills-grid">
         <div class="card">Biología de sistemas</div>
         <div class="card">Oncología teórica</div>

@@ -8,7 +8,10 @@ title: Oncostreams - Lucas Barberis
 </div>
 
 <div class="section">
-    <h2>Oncostreams</h2>
+    <div class="section-title">
+        <h2>Oncostreams</h2>
+        <img src="/assets/images_work/stremas_michigan.png" alt="Logo de la Universidad de Michigan" height="40">
+    </div>
     <p>Estudiamos cómo la migración celular forma corrientes autoorganizadas en el cáncer de cerebro (gliomas). Entender esta organización ayuda a comprender cómo las células invaden el tejido y cómo se produce la metástasis.</p>
     <p>Trabajamos en colaboración con Pedro Lowenstein, de la Universidad de Michigan.</p>
     <ul>
@@ -23,10 +26,19 @@ title: Oncostreams - Lucas Barberis
     <h2>Resultados</h2>
     <div class="gallery-container">
         <div class="gallery-item">
-            <img src="/assets/images_work/stremas_michigan.png" alt="Corrientes de células" class="gallery-image">
+            <video controls class="gallery-video">
+                <source src="/assets/images_work/stream_nematico_defectos_control_web.mp4" type="video/mp4">
+                <source src="/assets/images_work/stream_nematico_defectos_control_web.webm" type="video/webm">
+            </video>
             <div class="gallery-description">
                 <p>Las células se desplazan formando corrientes.</p>
             </div>
+        </div>
+        <div class="gallery-item">
+            <video controls class="gallery-video">
+                <source src="/assets/images_work/stream_10K-03-10-03_web.mp4" type="video/mp4">
+                <source src="/assets/images_work/stream_10K-03-10-03_web.webm" type="video/webm">
+            </video>
         </div>
         <div class="gallery-item">
             <img src="/assets/images_work/stream_percolation1.png" alt="Configuraciones de oncostreams para distintas densidades" class="gallery-image">

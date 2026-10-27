@@ -333,8 +333,7 @@ a:hover {
 
 .gallery-image {
     width: 100%;
-    height: 200px;
-    object-fit: cover;  /* Esto hace que la imagen cubra el espacio sin deformarse */
+    height: auto;  /* Mantiene la proporción original: la imagen no se recorta */
     border-bottom: 2px solid #64b5f6;
 }
 
@@ -362,21 +361,68 @@ a:hover {
         gap: 20px;
     }
     
-    .gallery-image {
-        height: 180px;
-    }
 }
 /* Para videos en la galería */
 .gallery-video {
     width: 100%;
-    height: 200px;
-    object-fit: cover;  /* Esto hace que el video cubra el espacio como las imágenes */
+    height: auto;  /* Mantiene la proporción original: el video no se recorta */
     border-bottom: 2px solid #64b5f6;
     background: #000;  /* fondo negro mientras carga */
 }
 /* Páginas internas */
 .back-link {
     margin-bottom: 20px;
+}
+
+/* Título de sección con logo a la derecha: el subrayado ocupa todo el ancho */
+.section .section-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 4px solid #64b5f6;
+}
+
+.section .section-title h2 {
+    margin: 0;
+    padding: 0;
+    border-bottom: none;
+    display: block;
+}
+
+/* Texto con figuras al lado (sin efectos al pasar el puntero) */
+.intro-with-image {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 30px;
+    align-items: start;
+}
+
+.intro-figures {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.intro-figures img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    border: 1px solid #2e3a4a;
+}
+
+.intro-figures .intro-logo {
+    width: 50%;
+    align-self: center;
+    border: none;
+}
+
+@media (max-width: 768px) {
+    .intro-with-image {
+        grid-template-columns: 1fr;
+    }
 }
 
 .back-link a {
