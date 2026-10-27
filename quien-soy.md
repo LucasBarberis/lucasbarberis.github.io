@@ -3,8 +3,6 @@ layout: default
 title: ¿Quién soy? - Lucas Barberis
 ---
 
-<link rel="stylesheet" href="/assets/css/style_dark.css">
-
 <div class="back-link">
     <a href="/">← Volver al inicio</a>
 </div>
@@ -17,9 +15,9 @@ title: ¿Quién soy? - Lucas Barberis
         <div class="profile-text">
             <h2>Lucas Barberis</h2>
             <ul>
-                <li><strong>Doctor en Física</strong>, egresado de la Universidad Nacional de Córdoba</li>
-                <li><strong>Investigador de CONICET</strong> en el IFEG (Instituto de Física Enrique Gaviola)</li>
-                <li><strong>Docente</strong> en FAMAF, Universidad Nacional de Córdoba</li>
+                <li>⚛️ <strong>Doctor en Física</strong>, egresado de la Universidad Nacional de Córdoba</li>
+                <li>🧑‍🔬 <strong>Investigador de CONICET</strong> en el IFEG (Instituto de Física Enrique Gaviola)</li>
+                <li>🧑‍🏫 <strong>Docente</strong> en FAMAF, Universidad Nacional de Córdoba</li>
             </ul>
         </div>
     </div>

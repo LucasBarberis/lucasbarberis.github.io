@@ -1,3 +1,4 @@
 title: Lucas Barberis
 description: Página personal - Doctor en Física, Investigador CONICET
-theme: jekyll-theme-cayman
+exclude:
+  - README.md

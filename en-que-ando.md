@@ -3,8 +3,6 @@ layout: default
 title: ¿En qué ando? - Lucas Barberis
 ---
 
-<link rel="stylesheet" href="/assets/css/style_dark.css">
-
 <div class="back-link">
     <a href="/">← Volver al inicio</a>
 </div>

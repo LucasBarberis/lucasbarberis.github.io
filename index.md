@@ -3,15 +3,13 @@ layout: default
 title: Lucas Barberis
 ---
 
-<link rel="stylesheet" href="/assets/css/style_dark.css">
-
 <div class="header-container">
     <div class="header-text">
         <h1>Lucas Barberis</h1>
         <ul>
-            <li>Doctor en Física</li>
-            <li>Investigador de CONICET en el IFEG</li>
-            <li>Docente de la UNC en FAMAF</li>
+            <li>⚛️ Doctor en Física</li>
+            <li>🧑‍🔬 Investigador de CONICET en el IFEG</li>
+            <li>🧑‍🏫 Docente de la UNC en FAMAF</li>
         </ul>
     </div>
     <div class="header-image">

@@ -3,8 +3,6 @@ layout: default
 title: Oncostreams - Lucas Barberis
 ---
 
-<link rel="stylesheet" href="/assets/css/style_dark.css">
-
 <div class="back-link">
     <a href="/en-que-ando">← Volver a proyectos</a>
 </div>
