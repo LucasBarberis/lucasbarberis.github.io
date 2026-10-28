@@ -1,6 +1,7 @@
 ---
 layout: default
-title: ¿En qué ando? - Lucas Barberis
+title: ¿En qué ando?
+description: "Líneas de investigación de Lucas Barberis: células madre tumorales, oncostreams, materia activa y conducta de aves de corral."
 ---
 
 <div class="back-link">

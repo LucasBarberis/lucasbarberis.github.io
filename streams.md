@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Oncostreams - Lucas Barberis
+title: Oncostreams
+description: "Autoorganización de la migración celular en gliomas: corrientes de células, simulaciones con agentes y teoría de percolación."
 ---
 
 <div class="back-link">

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: ¿Trabajamos juntos? - Lucas Barberis
+title: Trabajemos juntos
+description: Propuestas de trabajo final y doctorado en las líneas de investigación de Lucas Barberis, y cómo contactarlo.
 ---
 
 <div class="back-link">

@@ -122,7 +122,7 @@ winget install RubyInstallerTeam.RubyWithDevKit.3.3
 # Si el instalador pregunta por ridk install, elegir 3 (MSYS2 + MINGW).
 
 # Solo la primera vez: Jekyll
-gem install jekyll webrick
+gem install jekyll webrick jekyll-sitemap jekyll-seo-tag
 
 # Cada vez: desde la carpeta del proyecto
 jekyll serve
@@ -135,7 +135,7 @@ jekyll serve
 sudo apt install ruby-dev build-essential
 
 # Solo la primera vez: Jekyll, instalado en tu usuario (sin sudo)
-gem install --user-install jekyll webrick
+gem install --user-install jekyll webrick jekyll-sitemap jekyll-seo-tag
 
 # Cada vez: levantar el sitio desde la carpeta del proyecto
 export PATH="$(ruby -e 'print Gem.user_dir')/bin:$PATH"
@@ -166,6 +166,16 @@ git push origin main
 ```
 
 Los cambios aparecen en https://lucasbarberis.github.io en uno o dos minutos. Se puede seguir el avance en la pestaña **Actions** del repositorio.
+
+## Indexación en buscadores
+
+El sitio ya genera solo `sitemap.xml` y `robots.txt`, y cada página tiene su título y descripción (`jekyll-seo-tag`). Para que Google y Bing lo encuentren:
+
+1. **Google Search Console** (https://search.google.com/search-console): agregar la propiedad `https://lucasbarberis.github.io/`, verificarla y enviar `sitemap.xml` en "Sitemaps". Si el método de verificación es la etiqueta HTML, pegar el código en `_config.yml` en la línea `google_site_verification` (está comentada).
+2. **Bing Webmaster Tools** (https://www.bing.com/webmasters): lo mismo, o importar la propiedad desde Search Console.
+3. **Enlaces desde otros perfiles**: Google Scholar, ORCID, CVar, páginas del IFEG e IBYME y CONICET.
+
+Cada página nueva necesita `title` y `description` en su front matter. Usar comillas en la descripción si tiene `: `, porque si no el YAML falla y la página no se compila.
 
 ## Trabajar desde otra computadora
 

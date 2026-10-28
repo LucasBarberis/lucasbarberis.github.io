@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Conducta de aves de corral - Lucas Barberis
+title: Conducta de aves de corral
+description: Detección de estrés, hábitos no saludables y muerte en codornices y pollos a partir de su conducta, con acelerómetros y videos.
 ---
 
 <div class="back-link">

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: ¿Quién soy? - Lucas Barberis
+title: ¿Quién soy?
+description: "Trayectoria de Lucas Barberis, investigador CONICET en Física: formación, trabajo y actividades fuera del laboratorio."
 ---
 
 <div class="back-link">

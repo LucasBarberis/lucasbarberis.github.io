@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Células madre tumorales - Lucas Barberis
+title: Células madre tumorales
+description: Modelos y simulaciones del crecimiento de tumoresferas y del papel de las células madre tumorales, en colaboración con el IBYME.
 ---
 
 <div class="back-link">

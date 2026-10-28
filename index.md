@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lucas Barberis
+description: Lucas Barberis, Doctor en Física e investigador CONICET. Simulaciones y modelos de tumoresferas, oncostreams, materia activa y conducta de aves.
 ---
 
 <div class="header-container">

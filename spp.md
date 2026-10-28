@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Materia activa - Lucas Barberis
+title: Materia activa
+description: "Materia activa e interacciones no recíprocas: simulaciones de partículas autopropulsadas y modelos macroscópicos."
 ---
 
 <div class="back-link">
