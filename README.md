@@ -171,7 +171,7 @@ Los cambios aparecen en https://lucasbarberis.github.io en uno o dos minutos. Se
 
 El sitio ya genera solo `sitemap.xml` y `robots.txt`, y cada página tiene su título y descripción (`jekyll-seo-tag`). Para que Google y Bing lo encuentren:
 
-1. **Google Search Console** (https://search.google.com/search-console): agregar la propiedad `https://lucasbarberis.github.io/`, verificarla y enviar `sitemap.xml` en "Sitemaps". Si el método de verificación es la etiqueta HTML, pegar el código en `_config.yml` en la línea `google_site_verification` (está comentada).
+1. **Google Search Console** (verificación hecha con la etiqueta HTML, código ya cargado en `_config.yml`) (https://search.google.com/search-console): agregar la propiedad `https://lucasbarberis.github.io/`, verificarla y enviar `sitemap.xml` en "Sitemaps". Si el método de verificación es la etiqueta HTML, pegar el código en `_config.yml` en la línea `google_site_verification` (está comentada).
 2. **Bing Webmaster Tools** (https://www.bing.com/webmasters): lo mismo, o importar la propiedad desde Search Console.
 3. **Enlaces desde otros perfiles**: Google Scholar, ORCID, CVar, páginas del IFEG e IBYME y CONICET.
 
@@ -200,7 +200,7 @@ Para que otra sesión de Claude Code (en esta u otra computadora) siga sin pregu
 - **Commits:** no hacer commit ni push sin pedirlo. Antes de tocar `main`, confirmar el cambio.
 - **Qué se verificó:** en la computadora Windows, el sitio se compila con `jekyll build` sin errores y se sirve en http://127.0.0.1:4000. Los videos se verificaron con Chrome sin interfaz (cargan y son H.264 High).
 - **Antes de borrar archivos:** revisar que no estén referenciados en `.md`, `.html`, `.css` o `_config.yml` (buscar la ruta completa).
-- **Cambios sin commitear que quedaron de la última sesión:** títulos con logo y subrayado de sección (`.section-title` en `style_dark.css`), figuras de la introducción de `tumoresferas.md` (`.intro-with-image`), galería sin recorte (`height: auto`).
+- **Estado del repo:** todos los cambios de las sesiones anteriores están commiteados y en `main`. Si `git status` muestra cambios, revisarlos antes de commitear.
 
 ## Pendientes
 

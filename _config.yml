@@ -6,6 +6,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 # Código de verificación de Google Search Console (ver README, sección "Indexación"):
-# google_site_verification: PEGAR_CODIGO_AQUI
+google_site_verification: F97QwUHV98f7ExKOs2NdYg-Olsd_oBRGluFQe0IHL4g
 exclude:
   - README.md
