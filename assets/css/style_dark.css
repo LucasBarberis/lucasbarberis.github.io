@@ -452,3 +452,74 @@ a:hover {
     flex: 2;
     min-width: 250px;
 }
+
+/* Lista de proyectos: una tarjeta horizontal por fila */
+.project-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.project-card {
+    display: flex;
+    gap: 24px;
+    align-items: stretch;
+    background: #1a2332;
+    border: 1px solid #2a3442;
+    border-radius: 12px;
+    overflow: hidden;
+    color: inherit;
+    text-decoration: none;
+    transition: border-color 0.2s;
+}
+
+.project-card:hover {
+    border-color: #64b5f6;
+}
+
+.project-card img {
+    width: 320px;
+    min-width: 320px;
+    height: 220px;
+    object-fit: cover;
+}
+
+.project-text {
+    padding: 20px 20px 20px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.project-text h3 {
+    color: #90caf9;
+    font-size: 1.3em;
+}
+
+.project-text ul {
+    padding-left: 20px;
+    color: #cfd8e3;
+}
+
+.project-link {
+    margin-top: auto;
+    color: #90caf9;
+    font-weight: bold;
+}
+
+@media (max-width: 700px) {
+    .project-card {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .project-card img {
+        width: 100%;
+        min-width: 0;
+        height: 180px;
+    }
+
+    .project-text {
+        padding: 16px;
+    }
+}
